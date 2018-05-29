@@ -1,6 +1,0 @@
-[
-  "test_doctor.py::test_doctor_has_a_first_name",
-  "test_doctor.py::test_doctor_has_a_last_name",
-  "test_doctor.py::test_doctor_has_patients",
-  "test_doctor.py::test_doctor_can_schedule_surgery"
-]
